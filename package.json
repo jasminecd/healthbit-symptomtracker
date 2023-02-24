@@ -19,5 +19,9 @@
   "homepage": "https://github.com/jasminecd/healthbit-symptomtracker#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "vue": "^2.7.14",
+    "vue-choropleth": "^0.3.1"
   }
 }
