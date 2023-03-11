@@ -1,5 +1,6 @@
 Live server hosted on:
 https://jasminecd.github.io/healthbit-symptomtracker/
+https://sites.uci.edu/healthbitdatamap/
 
 How to begin:
 Download npm.
@@ -17,6 +18,14 @@ Choropleth map guide from Vue Leaflet ->
     https://leafletjs.com/examples/choropleth/
 Leaflet Docs ->
     https://leafletjs.com/reference.html
+
+For data:
+Pre-filter in excel to our designated symptom words
+Filter further in program
+    - break down by location
+    - how many of our words were identified in the tweets
+Input into the choropleth map necessary data
+More advanced NLP techniques not needed
 
 React (no longer using)
 Npm install react-icons
